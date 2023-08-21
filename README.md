@@ -5,5 +5,5 @@ In the game, a player is placed in a map with obstacles and must find four check
 
 The final game is coded in C++ using Northwestern's ge211 game engine, but the code can't be made public.
 
-## <img src="https://raw.githubusercontent.com/ryanp8/Escape/main/demo.gif" height=300 width=500>
+<a href="https://photos.google.com/share/AF1QipPh3Vn-1TGkLgTOv_igroyhApH-bI1lLe-7nknRbs7z3E17-loboaxuW_0f3pSjXw?key=TER1bGlzMGhXODhFeGZUTlZiNC1YVnhIODRrMFRR" target="_blank">Demo</a>
 
